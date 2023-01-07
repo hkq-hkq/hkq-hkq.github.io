@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d70e38a0","path":"/Exam/ComputerSoftExam/Common/","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"Exam/ComputerSoftExam/Common/index.md"}');export{t as data};
